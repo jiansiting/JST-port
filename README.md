@@ -14,7 +14,7 @@
  Click JST-Port.exe and then showing the DOS screen.
  点击JST-Port.exe可执行文件，会出现一个DOS窗口。
 
-![avatar](/screen.png)
+![image](/screen.png)
 
  Input a file name about csv type. That is done！
  输入一个csv的文件名，然后就结束了！
