@@ -19,4 +19,4 @@
  Input a file name about csv type. That is done！
  输入一个csv的文件名，然后就结束了！
 
- Table format：Process name| Process ID | Protocol | Local port | Local port name | Local address | Remote port | Remote port name | Remote address | Remote host name | State | Send Bytes | Received Bytes | Send Packets | Received Packets | Process path | Product name | File description | File version | Company | Process created on | User name | Process service | Process attributes | Added on | Creation timestamp | Module filename | Remote IP country | Remote IP ASN | Remote IP company | Windows title
+ Check list：Process name| Process ID | Protocol | Local port | Local port name | Local address | Remote port | Remote port name | Remote address | Remote host name | State | Send Bytes | Received Bytes | Send Packets | Received Packets | Process path | Product name | File description | File version | Company | Process created on | User name | Process service | Process attributes | Added on | Creation timestamp | Module filename | Remote IP country | Remote IP ASN | Remote IP company | Windows title
